@@ -2,7 +2,8 @@
 
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
 
-This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
+1. PT-BR - Esta tabela de emojis foi gerada automaticamente de[GitHub Emoji API](https://api.github.com/emojis) e [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
+1. This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
 ## Table of Contents
 
@@ -1543,4 +1544,3 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#github-custom-emoji) | :rage3: | `:rage3:` | :rage4: | `:rage4:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :shipit: | `:shipit:` | :suspect: | `:suspect:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :trollface: | `:trollface:` | | | [top](#table-of-contents) |
-
